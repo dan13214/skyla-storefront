@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skyla-storefront.vercel.app/sitemap.xml
